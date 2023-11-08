@@ -1,4 +1,4 @@
-This is my solutions to the AOC 2015 problems.
+These are my solutions to the AOC 2015 problems.
 
 https://adventofcode.com/2015
 
