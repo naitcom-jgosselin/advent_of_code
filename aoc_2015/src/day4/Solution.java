@@ -43,6 +43,9 @@ public class Solution {
     }
 
     public static void secondProblem() throws NoSuchAlgorithmException {
+        /*
+        Same problem, but this time we need six zeroes
+         */
         MessageDigest messageDigest = MessageDigest.getInstance("MD5");
         int lowestPossibleNumber = -1;
         for(int i = 1; i<Integer.MAX_VALUE; i++) {
